@@ -15,8 +15,8 @@ A Real-time chat application with chat rooms. Users can enter specific chat room
 
 ### How to run client locally
 ```
-git clone https://github.com/marckevinflores/usap-chat.git
-cd usap-chat
+git clone https://github.com/CodeKnight-max/react-simplechat.git
+cd react-simplechat
 npm install
 npm start
 
